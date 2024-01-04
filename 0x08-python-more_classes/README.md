@@ -1,7 +1,1 @@
-#!/usr/bin/python3
-""" The Class Rectangle """
-
-
-class Rectangle:
-    """ Empty class Rectangle """
-    pass
+0x08-python-more_classes
