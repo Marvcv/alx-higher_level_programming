@@ -1,5 +1,7 @@
 #!/bin/python3
 """class module BaseGeometry"""
+
+
 class BaseGeometry():
     """BaseGeometry class"""
     def area(self):
